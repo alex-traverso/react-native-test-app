@@ -31,7 +31,6 @@ const ThemedSwitch = ({ text, onValueChange, value, className }: Props) => {
           true: switchActiveColor,
         }}
       />
-      ;
     </Pressable>
   );
 };
